@@ -147,7 +147,9 @@ button {
 }
 
 button:hover {
-    
+    cursor: pointer;
+    transform: scale(.95);
+    background-color: #104728;
 }
 
 .left {
