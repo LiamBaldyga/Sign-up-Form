@@ -38,7 +38,7 @@ main {
 
 .background {
     position: relative;
-    background-image: url("/images/adrian-swancar-Am1DiIzxBUA-unsplash.jpg");
+    background-image: url("./images/adrian-swancar-Am1DiIzxBUA-unsplash.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
